@@ -47,3 +47,5 @@
 
     TO STOP THE SIMULATION :
         Press: ctrl + c
+
+    It might not be the biggest or the most complex project i could have build but i like space a lot and i have learned a lot about data structures and why its important to manage them efficiently , while writing many           times i did something which made the whole thing run like 1 fps in 8 seconds .

@@ -48,7 +48,8 @@
     TO STOP THE SIMULATION :
         Press: ctrl + c
 
-    It might not be the biggest or the most complex project i could have build but i like space a lot and i have learned a lot about data structures and
-    why its important to manage them efficiently , while writing manytimes i did something which made the whole thing run like 1 fps in 8 seconds .
-    Also studying about planets revolution was fun and it was quite a challange converting it to feasable size and time . Ive learned how to apply the 
-    things i learned to real world problems and coming up with creative solution to solve it .
+    It might not be the biggest or the most complex project i could have build but it satisfied my space intrest and i have learned a lot like
+    about data structures and why its important to manage them efficiently , while writing manytimes i did something which made the whole thing 
+    run like 1 fps in 8 seconds . Also studying about planets revolution was fun and it was quite a challange converting it to feasable size and time .
+    Ive learned how to apply the things i learned to real world problems and coming up with creative solution to solve it and learning about restriction 
+    of memory , terminal size etc was a very devloping experience .
